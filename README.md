@@ -1,24 +1,17 @@
-# README
+Primer Juego "Whack A Ruby":
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Directorio WhackARuby_1/whack_a_ruby.rb
 
-Things you may want to cover:
+Ejecutar en terminal: ruby whack_a_ruby.rb
 
-* Ruby version
+Segundo Juego "Twelve"
 
-* System dependencies
+Directorio Twelve_1/twelve.rb
 
-* Configuration
+Ejecutar en terminal: ruby twelve.rb
 
-* Database creation
+Tercer Juego "Sector Five"
 
-* Database initialization
+Directorio SectorFive_starter/sector_five.rb
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ejecutar en terminal: ruby sector_five.rb
