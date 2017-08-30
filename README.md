@@ -1,17 +1,17 @@
-Primer Juego "Whack A Ruby":
+******Primer Juego "Whack A Ruby"******
 
-Directorio WhackARuby_1/whack_a_ruby.rb
+-- 1.- Directorio WhackARuby_1/whack_a_ruby.rb
 
-Ejecutar en terminal: ruby whack_a_ruby.rb
+-- 2.- Ejecutar en terminal: ruby whack_a_ruby.rb
 
-Segundo Juego "Twelve"
+******Segundo Juego "Twelve"******
 
-Directorio Twelve_1/twelve.rb
+-- 1.- Directorio Twelve_1/twelve.rb
 
-Ejecutar en terminal: ruby twelve.rb
+-- 2.- Ejecutar en terminal: ruby twelve.rb
 
-Tercer Juego "Sector Five"
+******Tercer Juego "Sector Five"******
 
-Directorio SectorFive_starter/sector_five.rb
+-- 1.- Directorio SectorFive_starter/sector_five.rb
 
-Ejecutar en terminal: ruby sector_five.rb
+-- 2.- Ejecutar en terminal: ruby sector_five.rb
